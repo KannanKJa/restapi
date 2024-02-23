@@ -22,6 +22,6 @@ jobs:
         with:
           app-name: integtaion-web-name
           publish-profile: ${{ secrets.APP_DEPLOY }}
-          package: .       
+          package: .    
 
               
